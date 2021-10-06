@@ -17,6 +17,10 @@
 
 - 🤣 **Generador de memes:** https://romeroluciana.github.io/Editor-de-memes/
 
+## Sobre mí 🔮
+> Me considero una persona con capacidades resolutivas, persistente y curiosa. Me apasionan los 
+> libros, la programación y nunca dejar de aprender.
+
 ## ¿Te interesaron mis proyectos? ¿Necesitas ayuda con HTML, CSS o JavaScript? ¡Contactame!
-- 🎀 **E-mail:** lucianaromero0512@gmail.com
-- 🍄 **Linkedin:** https://www.linkedin.com/in/luciana-romero/
+- **E-mail:** lucianaromero0512@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/luciana-romero/

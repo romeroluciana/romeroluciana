@@ -15,7 +15,7 @@
 ## ¿Querés conocer mis trabajos? ¡accedé a mi portafolio!
 [Portafolio en GitHub Pages](https://romeroluciana.github.io/Portafolio/)
 
-- 🤣 **Proyecto Generador de memes:** https://romeroluciana.github.io/Editor-de-memes/
+- 🤣 **Generador de memes:** https://romeroluciana.github.io/Editor-de-memes/
 
 ## ¿Te interesaron mis proyectos? ¿Necesitas ayuda con HTML, CSS o JavaScript? ¡Contactame!
 - 🎀 **E-mail:** lucianaromero0512@gmail.com

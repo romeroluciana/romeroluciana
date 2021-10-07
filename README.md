@@ -1,7 +1,9 @@
-### ¡Hola, me alegra que estés acá! ✨
+# ¡Hola, me alegra que estés acá! ✨
 .⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 ### Mi nombre es Luciana Romero, soy una desarrolladora frontend en constante formación
 ![Alt Text](https://c.tenor.com/YdTpw-54DXcAAAAC/pusheen-laptop.gif)
+
+.⋆｡⋆˚｡⋆｡˚｡⋆.        .⋆｡⋆˚｡⋆｡˚｡⋆.
 
 ## Habilidades ⛏
 
@@ -17,7 +19,7 @@
 
 - 🤣 **Generador de memes:** https://romeroluciana.github.io/Editor-de-memes/
 
-## Sobre mí 🔮
+### Sobre mí 🔮
 > Me considero una persona con capacidades resolutivas, persistente y curiosa. Me apasionan los 
 > libros, la programación y nunca dejar de aprender.
 

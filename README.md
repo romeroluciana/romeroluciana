@@ -20,6 +20,10 @@
 
 🤣 **Generador de memes:** https://romeroluciana.github.io/Editor-de-memes/
 
+🏠 **Registro de inquilinos:** https://romeroluciana.github.io/alquileresAPI/
+
+🍻 **Cervezas ABV:**https://romeroluciana.github.io/cervezas-ABV/
+
 ## ¿Te interesaron mis proyectos? ¿Necesitas ayuda con HTML, CSS o JavaScript? ¡Contactame!
 - **E-mail:** lucianaromero0512@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/luciana-romero/

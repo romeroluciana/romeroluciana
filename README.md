@@ -19,13 +19,15 @@
 ## ¿Querés conocer mis trabajos? ¡accedé a mi portafolio!
 💜  **Portafolio:** https://romeroluciana.github.io/Portafolio/
 
+✔️ **To do List** https://meek-croissant-665bc4.netlify.app/
+
 💲  **Sistema de ventas:** https://ludmilanannizzi.github.io/adaComputacion/
 
 🤣 **Editor de memes:** https://romeroluciana.github.io/Editor-de-memes/
 
 🏠 **Registro de inquilinos:** https://romeroluciana.github.io/alquileresAPI/
 
-🍻 **Cervezas ABV:** https://romeroluciana.github.io/cervezas-ABV/
+
 
 ## ¿Te interesaron mis proyectos? ¿Necesitas ayuda con HTML, CSS o JavaScript? ¡Contactame!
 - **E-mail:** lucianaromero0512@gmail.com
